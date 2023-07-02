@@ -1,4 +1,4 @@
-# Chapter 1 notes
+# Chapter 2 notes
 
 ## Generative phisical model
 
@@ -137,4 +137,3 @@ var dist = Infer(distfun)
 
 viz(dist)
 ```
-
